@@ -13,6 +13,6 @@ lable.place(x=50, y=20)
 lable1 = Label(text = "This is  a dog", fg = "black", bg = "white", height=20, width=50)
 lable1.place(x = 40, y = 300)
 
-messeage = messagebox.showwarning("Alert","don't use this file")
+messeage = messagebox.showwarning("Alert","don't use this file it has corona virus")
 messeage.place()
 root.mainloop()
